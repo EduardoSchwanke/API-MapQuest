@@ -21,6 +21,10 @@ icon: {
     symbol: 'B'
 }
 })
-.bindPopup('<img src="star.jpg"> <h3>Loja Belucio Variedades</h3> <p>R. Antonio Vilena</p> <p>whatsapp: xxxxx-xxxx</p>')
+.bindPopup(`<img src="star.jpg"> 
+            <h3>Loja Belucio Variedades</h3> 
+            <p>R. Antonio Vilena</p> 
+            <p>whatsapp: xxxxx-xxxx</p>
+        `)
 .addTo(map)
 }
